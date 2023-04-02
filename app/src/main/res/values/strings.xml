@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SynergyPlanets</string>
+    <string name="load_value_hint">Количество груза (кг)</string>
+    <string name="load_value_description">Для доставки 1 кг груза с Земли на Марс потребуется 100 кг топлива</string>
+    <string name="mars_gravity">3.721 м/с</string>
+    <string name="start_name">Марс</string>
+    <string name="earth_gravity">9.8 м/с</string>
+    <string name="destination_name">Земля</string>
+</resources>
